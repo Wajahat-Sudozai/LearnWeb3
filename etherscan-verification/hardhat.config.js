@@ -15,7 +15,7 @@ module.exports = {
   },
   etherscan: {
     apiKey: {
-      polygonMumbai: POLYGONSCAN_KEY,
+      bscTestnet: POLYGONSCAN_KEY,
     },
   },
 };
